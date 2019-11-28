@@ -10,4 +10,4 @@ Autor: Claudiano Pereira - claudianopereira047@gmail.com
 
 # Screenshot
 
-![alt text](https://i.imgur.com/hLOwvkk.png)
+![alt text](https://i.imgur.com/p24OJ5y.png)
