@@ -10,4 +10,14 @@ Autor: Claudiano Pereira - claudianopereira047@gmail.com
 
 # Screenshot
 
+# Desktop
 ![alt text](https://i.imgur.com/p24OJ5y.png)
+
+# Tablet-1
+![alt text](https://i.imgur.com/8ODAWg5.png)
+
+# Tablet-2
+![alt text](https://i.imgur.com/C79WhKI.png)
+
+# Mobile
+![alt text](https://i.imgur.com/Dz0x3DF.png)
