@@ -2,7 +2,7 @@
 
 Ferramentas: HTML 5, CSS 3, JavaScript (usado apenas para criar o menu-mobile)
 
-Descrição: construir um portfólio, para treinar ainda mais os aprendizados com o flexbox, evitei usar o JavaScript e ainda não tenha conhecimento sólido sobre a linguagem e também a ideia de treinar com o flexbox e o design responsivo. Declaro que o projeto é apenas para fins acadêmicos e é um clone do layout AWAX desenvolvido por Alexander Bukin.
+Descrição: construir um portfólio, para treinar ainda mais os aprendizados com o flexbox, evitei usar o JavaScript porque ainda não tenha conhecimento sólido sobre a linguagem e também a ideia era treinar com o flexbox e o design responsivo. Declaro que o projeto é apenas para fins acadêmicos e é um clone do layout AWAX desenvolvido por Alexander Bukin.
 
 Data: 16/12/2019
 
