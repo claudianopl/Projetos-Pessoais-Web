@@ -12,10 +12,10 @@ Autor: Claudiano Pereira - claudianopereira047@gmail.com
 
 
 # Versão Desktop
-![alt text](https://i.imgur.com/OxfH0uc.png)
+![alt text](https://i.imgur.com/Eur9PaY.png)
 
 # Versão Tablet
-![alt text](https://i.imgur.com/BAgs0DI.png)
+![alt text](https://i.imgur.com/rmBjHAa.png)
 
 # Versão Mobile
-![alt text](https://i.imgur.com/A8EloJJ.png)
+![alt text](https://i.imgur.com/RDh0Ino.png)
