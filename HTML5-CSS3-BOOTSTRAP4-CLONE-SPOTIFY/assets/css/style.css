@@ -1,0 +1,317 @@
+/* Layout
+---------------------------------*/
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;
+}
+
+body {
+	background: url(../imagens/capa.png),
+				url(../imagens/ruido.png),
+				linear-gradient(50deg,#ff4169,#7c26f8);
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif;
+	animation-duration: 20s;
+  	animation-iteration-count: infinite;
+  	animation-name: gradients;
+}
+
+@keyframes gradients {
+    0%   {background-position: 0 0;}
+    25% {background-position: 50% 0;}
+    50% {background-position: 90% 0;}
+    60% {background-position: 60%;}
+    75% {background-position: 40%;}
+    100%  {background-position: 0 0;}
+}
+
+/* CAPA
+-----------------------------*/
+.cover {
+	text-align: center;
+}
+	/* Criando o botão
+	---------------------------------*/
+.btn-custom {
+	margin-top: 16px;
+	color: white;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	font-weight: bold;
+	text-transform: uppercase;
+	transition: background 0.4s, color 0.4s;
+    font-size: 14px;
+    line-height: 1;
+    padding: 16px 48px 18px;
+    background: #1DB954;
+    letter-spacing: .2rem;
+}
+	/* botão hover
+	---------------------------------*/
+.btn-custom:hover {
+	color: white;
+    background-color: #1ED760;
+}
+	/* tipografia h4
+	---------------------------------*/
+.cover h4 {
+	font-weight: bold;
+	color: white;
+	margin: 0.5em 0 1em;
+}
+
+/* BARRA DE NAVEGAÇÃO
+---------------------------------*/
+
+	/* Nav transparente
+	---------------------------------*/
+.navbar-transparent {
+	background: rgba(0,0,0,0.6);
+	padding: 15px 0;
+}
+
+	/* Cor branca nos itens 
+	---------------------------------*/
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+	font-weight: bold;
+}
+
+	/* Espaçamento entre os itens
+	---------------------------------*/
+
+.navbar-expand-md .navbar-nav .nav-link {
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+	/*Nav secundária, inscreve-se e 
+	entrar
+	---------------------------------*/
+.navbar-light .navbar-nav .header-secondary .nav-link {
+	color: #d9dadc;
+}
+
+	/* Cor branca nos itens no hover
+	---------------------------------*/
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #1DB954;
+}
+
+	/* Criando barra divisor
+	---------------------------------*/
+.divider {
+	margin: 12px;
+	width: 1px;
+	background: white;
+}
+
+	/*Cor da borda do button collapse
+	---------------------------------*/
+.navbar-light .navbar-toggler {
+	border-color: rgba(255,255,255,0.5);
+}
+
+
+/* SERVIÇO
+---------------------------------*/
+.service {
+	background: white;
+	padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+	/* Cor roxo no h2 e h3
+	---------------------------------*/
+.service h2, h3 {
+	color: #7c25f8;
+}
+
+
+	/* Espaçameto entre as imagens
+	---------------------------------*/
+.spacing-bottom {
+	padding: 10px 0px;
+}
+
+/* RECURSO
+---------------------------------*/
+.resources {
+	padding-top: 20px;
+    padding-bottom: 20px;
+}
+	/* Cor h2
+	---------------------------------*/
+.resources h2 {
+	color: white;
+}
+
+	/* Cor h3
+	---------------------------------*/
+.resources h3 {
+	color: #9bf0e1;
+}
+
+	/* Cor p
+	---------------------------------*/
+.resources p {
+	color: white;
+}
+
+	/* Rotação iphone
+	---------------------------------*/
+.rotation-iphones {
+	padding-left: 80px;
+	-ms-transform: rotate(30deg);
+	-webkit-transform: rotate(30deg);
+	transform: rotate(30deg);
+}
+
+/* RODAPÉ
+---------------------------------*/
+footer {
+	padding: 50px 0px 20px 0px;
+    background: black;
+    position: relative;
+}
+
+footer h4 {
+	color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+footer .navbar-nav a {
+	color: white;
+    font-size: 0.8em;
+    font-weight: bold;
+
+}
+
+footer .navbar-nav a:hover {
+	color: #1ED760;
+	text-decoration: none;
+}
+
+
+	/* Ajustando os icons social
+	---------------------------------*/
+.social ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.social ul li {
+	float: right;
+    margin: 0 5px;
+}
+
+/* TIPOGRAFIA
+---------------------------------*/
+h1 {
+	font-weight: 900;
+	letter-spacing: -0.04em;
+	line-height: 1.15;
+	margin-bottom: 25px;
+	color: white;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+}
+
+h3 {
+	font-size: 2em;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+
+/* Dispositivos extra small (telefones em modo retrato, com menos de 576px) */
+@media (max-width: 575px) { 
+	.divider {
+		display: none;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		text-align: center;
+	}
+	.logo-footer {
+		padding-bottom: 15px;
+	}
+	.spacing-footer {
+		padding-bottom: 15px;
+		padding-top: 15px;
+	}
+	.social ul li {
+		float: left;
+	}
+	.btn-custom {
+		font-size: 12px;
+		padding: 16px 25px 18px;
+	}
+}
+
+/* Dispositivos small (telefones em modo paisagem, com 576px ou mais) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	h1 {
+		font-size: 2em;
+	}
+	.divider {
+		display: none;
+	}
+	.navbar-light .navbar-nav .nav-link {
+		text-align: center;
+	}
+	.service h2 {
+		letter-spacing: normal;
+	}
+	.logo-footer {
+		padding-bottom: 15px;
+	}
+	.spacing-footer {
+		padding-bottom: 15px;
+		padding-top: 15px;
+	}
+	.social ul li {
+		float: left;
+	}
+	.btn-custom {
+		font-size: 12px;
+		padding: 16px 25px 18px;
+	}
+}
+
+/* Dispositivos médios (tablets com 768px ou mais) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	h1 {
+		font-size: 3em;
+	}
+	.navbar-expand-md .navbar-nav .nav-link {
+		padding-left: 0.8rem;
+		padding-right: 0.8rem;
+	}
+	.service h2 {
+		letter-spacing: normal;
+	}
+}
+
+/* Dispositivos large (desktops com 992px ou mais) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	h1 {
+		font-size: 4em;
+	}
+}
+
+/* Dispositivos extra large (desktops grandes com 1200px ou mais) */
+@media (min-width: 1200px) {
+	h1 {
+		font-size: 5em;
+	}
+}
