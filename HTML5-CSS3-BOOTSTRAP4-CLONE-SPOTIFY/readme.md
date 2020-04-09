@@ -11,7 +11,7 @@ Autor: Claudiano Pereira - claudianopereira047@gmail.com
 # Screenshot
 
 # Versão Desktop
-![alt text](https://i.imgur.com/ktTAdlV.png)
+![alt text](https://i.imgur.com/eukgKmw.png)
 
 # Versão Tablet
 ![alt text](https://i.imgur.com/X7iX9MC.png)
