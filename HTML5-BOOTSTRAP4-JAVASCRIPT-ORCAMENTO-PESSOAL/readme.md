@@ -12,10 +12,13 @@ Autor: Claudiano Pereira - claudianopereira047@gmail.com
 
 # Cadastro
 ![alt text](https://i.imgur.com/HBnthT0.png)
+
 # Cadastro Modal Sucesso
-![alt text]((https://i.imgur.com/1ik3790.png)
+![alt text](https://i.imgur.com/1ik3790.png)
+
 # Cadastro Modal Error
 ![alt text](https://i.imgur.com/layRnyx.png)
+
 # Consulta
 ![alt text](https://i.imgur.com/WxtM6fy.png)
 
