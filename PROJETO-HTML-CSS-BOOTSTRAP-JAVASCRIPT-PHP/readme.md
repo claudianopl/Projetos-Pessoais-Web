@@ -1,4 +1,4 @@
-#Projeto Web - App Help Desk
+# Projeto Web - App Help Desk
 
 Ferramentas: HTML5, CSS3, Bootstrap, JavaScript, PHP
 
@@ -7,9 +7,9 @@ Na array de acesso do usuário existe o id, id_perfil, email e senha. O id é re
 
 Data: 21/04/2020
 
-Contato: Claudiano Pereira de Lima - claudianopereira047@gmail.com
+# Contato: Claudiano Pereira de Lima - claudianopereira047@gmail.com
 
-#Screenshot
+# Screenshot
 
 # Página de login
 ![alt text](https://i.imgur.com/vTi0DIj.png)
