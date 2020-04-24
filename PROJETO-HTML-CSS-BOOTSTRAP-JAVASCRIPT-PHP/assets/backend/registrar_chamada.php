@@ -4,10 +4,13 @@
    // Obtendo dados do formulário
    $titulo = str_replace('#', '-', $_POST['titulo']);
    $categoria = str_replace('#', '-', $_POST['categoria']);
+   $nome = str_replace('#', '-', $_POST['nome']);
+   $contato = str_replace('#', '-', $_POST['contato']);
    $descricao = str_replace('#', '-', $_POST['descricao']);
+   
 
    // Gerando o texto para ser armazenado
-   $texto = $_SESSION['id'] . '#' . $titulo . '#' . $categoria . '#' . $descricao . PHP_EOL;
+   $texto = $_SESSION['id'] . '#' . $titulo . '#' . $categoria . '#' . $nome . '#' .$contato . '#' . $descricao . PHP_EOL;
    /* Criei um arquivo .hd para simular o banco de dados, já que ainda não tenho
    conhecimentos em MySQL*/
 
