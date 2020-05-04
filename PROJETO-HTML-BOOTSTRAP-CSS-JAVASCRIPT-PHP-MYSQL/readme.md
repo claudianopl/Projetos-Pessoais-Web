@@ -1,4 +1,4 @@
-# Projeto Web - App Help Desk
+# Projeto Web - App Lista de Tarefas
 
 Ferramentas: HTML5, CSS3, Bootstrap, JavaScript, PHP, MYSQL
 
