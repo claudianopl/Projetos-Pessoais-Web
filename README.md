@@ -2,4 +2,4 @@
 
 Estou estudando desenvolvimento web full stack, esse repositório foi criado para adicionar meus projetos desenvolvido ao longo da aprendizagem, projetos de treinamentos e pessoais.
 
-Autor: Claudiano Pereira - claudianopereira047@gmal.com
+Autor: Claudiano Pereira - claudianoplima@hotmail.com
