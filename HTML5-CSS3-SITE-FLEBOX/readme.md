@@ -6,7 +6,7 @@ Descrição: Fiz um pequeno site de um Centro Médico simples, para treinar os m
 
 Data: 10/11/2019
 
-Autor: Claudiano Pereira - claudianopereira047@gmail.com
+Autor: Claudiano Pereira - claudianoplima@hotmail.com
 
 # Screenshot
 
