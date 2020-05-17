@@ -3,12 +3,12 @@
 Ferramentas: HTML5, CSS3, Bootstrap, JavaScript, PHP
 
 Descrição: A finalidade do projeto era treinar os conhecimentos adquiridos sobre PHP, com isso criei um projeto denominado App Help Desk, como o intuito total de aprender, ou seja, a logo usada tem o intuito fundamental apenas para ilustração. Para fazer o back-end de acesso do usuário eu usei uma array, por enquanto que ainda não tenho conhecimento com a ferramenta de banco de dados MySQL, por tanto foi usado uma array para registrar os dados de login, senha e um arquivo.hd para registrar as chamadas dos usuários.
-Na array de acesso do usuário existe o id, id_perfil, email e senha. O id é responsavel para apresentar na área de consulta apenas as chamadas abertas por aquele id e o id_perfil verifica se você é um administrador ou um cliente. Se você for um administrador, na área de consulta vai apresentar todas as chamadas abertas de todos os usuários, se for cliente, a consulta apresentara apenas as chamadas abertas por aquele cliente. Fazendo assim que as informações se mantenha sigilosas entre os clientes.
+Na array de acesso do usuário existe o id, id_perfil, email e senha. O id é responsável para apresentar na área de consulta apenas as chamadas abertas por aquele id e o id_perfil verifica se você é um administrador ou um cliente. Se você for um administrador, na área de consulta vai apresentar todas as chamadas abertas de todos os usuários, se for cliente, a consulta apresentara apenas as chamadas abertas por aquele cliente. Fazendo assim que as informações se mantenham sigilosas entre os clientes.
 
 Data: 21/04/2020
 
 # Contato
-Claudiano Lima - claudianopereira047@gmail.com
+Claudiano Lima - claudianoplima@hotmail.com
 
 # Screenshot
 
