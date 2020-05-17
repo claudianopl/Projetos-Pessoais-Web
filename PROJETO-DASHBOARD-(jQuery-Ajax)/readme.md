@@ -14,7 +14,7 @@ Data: 09/05/2020
 
 # Contato
 
-Claudiano Pereira de Lima - claudianopereira047@gmail.com
+Claudiano Pereira de Lima - claudianoplima@hotmail.com
 
 # GIF
 ![alt text](https://media.giphy.com/media/d6QLWh7RsPcpCjTVXc/giphy.gif)
