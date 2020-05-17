@@ -6,7 +6,7 @@ Descrição: Fiz um pequeno portal de notícia simples, para treinar o que apren
 
 Data: 10/11/2019
 
-Autor: Claudiano Pereira - claudianopereira047@gmail.com
+Autor: Claudiano Pereira - claudianoplima@hotmail.com
 
 # Screenshot
 
