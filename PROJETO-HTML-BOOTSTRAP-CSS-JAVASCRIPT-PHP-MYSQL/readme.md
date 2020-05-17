@@ -10,7 +10,7 @@ Data: 04/05/2020
 
 # Contato
 
-Claudiano Pereira de Lima - claudianopereira047@gmail.com
+Claudiano Pereira de Lima - claudianoplima@hotmail.com
 
 # Screenshot
 
