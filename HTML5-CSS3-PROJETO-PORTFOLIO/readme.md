@@ -6,7 +6,7 @@ Descrição: construí um portfólio, para treinar ainda mais os aprendizados co
 
 Data: 16/12/2019
 
-Autor: Claudiano Pereira - claudianopereira047@gmail.com
+Autor: Claudiano Pereira - claudianoplima@hotmail.com
 
 # Screenshot
 
