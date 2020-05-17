@@ -6,7 +6,7 @@ Descrição: nesse projeto Orçamento Pessoal tive o intuito de treinar o JavaSc
 
 Data: 12/04/2020
 
-Autor: Claudiano Pereira - claudianopereira047@gmail.com
+Autor: Claudiano Pereira - claudianoplima@hotmail.com
 
 # Screenshot
 
