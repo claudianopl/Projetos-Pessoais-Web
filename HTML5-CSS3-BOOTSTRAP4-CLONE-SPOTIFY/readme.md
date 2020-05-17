@@ -6,7 +6,7 @@ Descrição: Fiz o clone do Spotify responsivo, porque tinha como objetivo trein
 
 Data: 09/04/2020
 
-Autor: Claudiano Pereira - claudianopereira047@gmail.com
+Autor: Claudiano Pereira - claudianoplima@hotmail.com
 
 # Screenshot
 
